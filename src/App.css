@@ -4,7 +4,9 @@
 }
 
 .search-bar input{
-  width: 75%
+  width: 75%;
+  border: 1px solid #ddd;
+  border-radius: 10px;
 }
 
 .video-item img{
@@ -19,6 +21,7 @@
 }
 
 .list-group-item{
+  margin-left: 15px;
   cursor: pointer;
 }
 
